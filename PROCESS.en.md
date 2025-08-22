@@ -72,7 +72,7 @@ This part is also handled in the medical system. After self check-in, the medica
 The scanning status is as follows:
 
 
-![](./images/health%2520check%20report.jpg)
+![](./images/health%20check%20report.jpg)
 
 
 After scanning is completed, the status will change to "Completed":
@@ -88,7 +88,7 @@ The meal break process is for the lunch break. If the patient has not completed 
 Below is the page for entering the changing room:
 
 
-![](./images/changing%2520clothes%20end.jpg)
+![](./images/changing%20clothes%20end.jpg)
 
 
 Similar to the previous changing process, the hospital has hardware equipment for scanning the QR code to enter the changing room and clicking "Open Locker" to open the storage locker. Therefore, no demonstration is required here. Thank you for your understanding.
