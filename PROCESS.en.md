@@ -72,7 +72,7 @@ This part is also handled in the medical system. After self check-in, the medica
 The scanning status is as follows:
 
 
-![](images/en/health%20check%2520report.jpg)
+![](images/en/health%20check%20report.jpg)
 
 
 After scanning is completed, the status will change to "Completed":
