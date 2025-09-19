@@ -46,7 +46,7 @@ Step 4:
 Changing clothes before the health check. The page is as follows:
 
 
-![](images/en/changing%2520clothes.jpg)
+![](images/en/changing%20clothes.jpg)
 
 
 The hospital changing room has hardware equipment for scanning:
@@ -60,7 +60,7 @@ Proceed to the next step: the health check process.
 The page is as follows:
 
 
-![](images/en/health%2520check.jpg)
+![](images/en/health%20check.jpg)
 
 
 Click "Self Check-In" to open the QR code scanner (the QR codes are located in the folder: qrcodeMaterial => step3). All QR codes need to be scanned. Please scan one code, wait for the check item status to change to "Completed," and then scan the next one. Thank you.
@@ -72,13 +72,13 @@ This part is also handled in the medical system. After self check-in, the medica
 The scanning status is as follows:
 
 
-![](images/en/health%2520check%2520report.jpg)
+![](images/en/health%20check%2520report.jpg)
 
 
 After scanning is completed, the status will change to "Completed":
 
 
-![](images/en/Check%2520completed.jpg)
+![](images/en/Check%20completed.jpg)
 
 
 After all checks are completed, the nursing staff will use medical equipment to notify the patient that they can proceed to change clothes (this is also handled by the medical system, so APIs are used to simulate the medical system operations. Thank you for your understanding).
@@ -88,7 +88,7 @@ The meal break process is for the lunch break. If the patient has not completed 
 Below is the page for entering the changing room:
 
 
-![](images/en/changing%2520clothes%2520end.jpg)
+![](images/en/changing%20clothes%2520end.jpg)
 
 
 Similar to the previous changing process, the hospital has hardware equipment for scanning the QR code to enter the changing room and clicking "Open Locker" to open the storage locker. Therefore, no demonstration is required here. Thank you for your understanding.
