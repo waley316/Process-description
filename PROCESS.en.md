@@ -37,7 +37,7 @@ Afterward, the patient’s personal QR code will appear, which needs to be scann
 The normal page is as follows:
 
 
-![](images/en/propaganda-3.jpg)
+![](./images/propaganda-3.jpg)
 
 
 The payment step is determined at the hospital, where the patient decides whether to add additional体检 items. This is handled by the nursing staff in the medical system. By default, no payment is required, so this step is skipped.
