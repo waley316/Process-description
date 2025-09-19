@@ -9,19 +9,19 @@ Log in to the app using an account. Since the actual login uses the resident ID 
 After entering the test account in the middle, click "Login" to enter the system.
 
 
-![](images/step1.jpg)
+![](images/en/step1.jpg)
 
 Step 2:
 After entering the homepage, click "Enable Scanning" to scan the check-in QR code (the QR code is located in the folder).
 
 
-![](images/step2.jpg)
+![](images/en/step2.jpg)
 
 
 Below is the interface after clicking "Enable Scanning," as well as the QR code that needs to be scanned (also located in the folder: qrcodeMaterial => step1 => Health Check-In QRCode).
 
 
-![](images/checkIn.jpg)
+![](images/en/checkIn.jpg)
 
 After completion, the process will proceed to the next step—health education promotion—and this page will be closed.
 
@@ -30,14 +30,14 @@ Upon entering the health education promotion process, a default rest table will 
 Below is the health education promotion page, the interface after clicking "Enable Scanning," and the QR code that needs to be scanned.
 
 
-![](images/propaganda.jpg)
+![](images/en/propaganda.jpg)
 
 
 Afterward, the patient’s personal QR code will appear, which needs to be scanned by the medical system. Since the reviewer may not have access to the medical system, this operation is completed using an API.
 The normal page is as follows:
 
 
-![](images/propaganda-3.jpg)
+![](images/en/propaganda-3.jpg)
 
 
 The payment step is determined at the hospital, where the patient decides whether to add additional体检 items. This is handled by the nursing staff in the medical system. By default, no payment is required, so this step is skipped.
@@ -46,7 +46,7 @@ Step 4:
 Changing clothes before the health check. The page is as follows:
 
 
-![](images/changing%2520clothes.jpg)
+![](images/en/changing%2520clothes.jpg)
 
 
 The hospital changing room has hardware equipment for scanning:
@@ -60,7 +60,7 @@ Proceed to the next step: the health check process.
 The page is as follows:
 
 
-![](images/health%2520check.jpg)
+![](images/en/health%2520check.jpg)
 
 
 Click "Self Check-In" to open the QR code scanner (the QR codes are located in the folder: qrcodeMaterial => step3). All QR codes need to be scanned. Please scan one code, wait for the check item status to change to "Completed," and then scan the next one. Thank you.
@@ -72,13 +72,13 @@ This part is also handled in the medical system. After self check-in, the medica
 The scanning status is as follows:
 
 
-![](images/health%2520check%2520report.jpg)
+![](images/en/health%2520check%2520report.jpg)
 
 
 After scanning is completed, the status will change to "Completed":
 
 
-![](images/Check%2520completed.jpg)
+![](images/en/Check%2520completed.jpg)
 
 
 After all checks are completed, the nursing staff will use medical equipment to notify the patient that they can proceed to change clothes (this is also handled by the medical system, so APIs are used to simulate the medical system operations. Thank you for your understanding).
@@ -88,7 +88,7 @@ The meal break process is for the lunch break. If the patient has not completed 
 Below is the page for entering the changing room:
 
 
-![](images/changing%2520clothes%2520end.jpg)
+![](images/en/changing%2520clothes%2520end.jpg)
 
 
 Similar to the previous changing process, the hospital has hardware equipment for scanning the QR code to enter the changing room and clicking "Open Locker" to open the storage locker. Therefore, no demonstration is required here. Thank you for your understanding.
@@ -103,7 +103,7 @@ After changing clothes, the patient will wait for the nursing staff to notify th
 After clicking "Complete Changing," the process will enter the final step. The page is as follows:
 
 
-![](images/end.jpg)
+![](images/en/end.jpg)
 
 
 At this point, the entire process is complete!
