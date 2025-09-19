@@ -88,7 +88,7 @@ The meal break process is for the lunch break. If the patient has not completed 
 Below is the page for entering the changing room:
 
 
-![](images/en/changing%20clothes%2520end.jpg)
+![](images/en/changing%20clothes%20end.jpg)
 
 
 Similar to the previous changing process, the hospital has hardware equipment for scanning the QR code to enter the changing room and clicking "Open Locker" to open the storage locker. Therefore, no demonstration is required here. Thank you for your understanding.
